@@ -45,4 +45,5 @@ fun main() {
     val nami: String? = null
     println(nami?.length) // null
     println(nami ?: "гость") // если nami null -> гость. иначе nami
+    // whatever
 }
